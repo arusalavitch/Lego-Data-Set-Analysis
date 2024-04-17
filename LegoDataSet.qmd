@@ -5,3 +5,12 @@ editor: visual
 ---
 
 
+
+
+
+
+
+
+
+$H_0: $ The price of the Lego set is independent of the number of unique pieces it contains
+$H_A: $ The price of the Lego set is dependent on the number of unique pieces it contains
